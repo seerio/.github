@@ -1,0 +1,2 @@
+# .github
+Seer readme
